@@ -18,9 +18,11 @@ Optional:  Make cat dance.
 July 31, 2017
 -------------
 Cover piano keys with sprite indicating which key was hit.
-Result:  Got bored with creating all the keys.
+Result:  Created 3 keys but got bored with creating rest of the keys.
+piano.sb2
 
 August 2, 2017
 --------------
-Free play, make fighting game for cats?
-
+Build rudimentary fighting game with cats.
+Result: Worked hard to create.
+fight.sb2
